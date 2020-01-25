@@ -1,0 +1,50 @@
+Angular is a full featured JS framework created & maintained
+by Google and is used for building front-end applications or
+the front-end part of a full stack applications
+
+Angular is very popular in large enterprise
+
+One of the big three (React, Vue, Angular)
+
+AngularJS was released in 2010. Not recommended and should be
+updated to Angular
+
+Angular refers to version 2+. Right now we are on version 7
+but 2-7 is the same framework with a few changes, mostly under
+the hood
+
+Why use Angular?
+- Organized front-end structure (Components, Modules, Services)
+- Extremely powerful & full featured
+- All-in-one solution (Routing, HTTP, RxJS, etc)
+- Build powerful SPA applications
+- MVC - Model, View, Controller design pattern
+- TypeScript
+- Fantastic CLI
+
+What you should know before learning Angular:
+- JavaScript Fundamentals
+
+May help to learn these first:
+- TypeScript
+- Classes
+- High Order Array Methods - forEach, map, filter
+- Arrow Functions
+- Promises & Observables
+- MVC Pattern
+
+The Angular Way
+- Uses TypeScript for static types (variables, funcs, params)
+- Component based (Like other frameworks)
+- Uses "services" to share data/functionality between components
+- Concept of "modules" (root, forms, http, etc)
+- Uses RxJS "observables" for async operations
+- Steep learning curve relative to other frameworks
+
+A note on State Management:
+You can use state managers like ngrx and Redux with Angular
+for larger apps
+
+Brad finds it less necessary due to the overall structure of
+the framework and services which are used to share data and
+functionality.
